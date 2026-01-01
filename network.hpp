@@ -1,10 +1,3 @@
-/*
- *      Author: Gjonpjer Kola
- *      Date:   11/20/2025
- *
- */
-
-
 /***************************************************************************************************
  *                                             Network                                             *
  ***************************************************************************************************/
@@ -32,7 +25,6 @@ static constexpr unsigned int BUFFER    = 1024;
 
 /*
  * Raii class wrapper to help us with the hand over hand locking
- * From lab 11/21/2025 10:30 am 
 */
 
 // do this to avoid deep nested namespace scope declarations
